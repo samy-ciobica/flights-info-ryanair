@@ -1,0 +1,2 @@
+The endpoint can be easily once the project is running here -> http://localhost:8080/flights-info/swagger-ui/index.html#
+or test it in directly in Postman http://localhost:8080/flights-info/interconnections?departure=MAD&arrival=BER&departureDateTime=2021-01-01T07:00&arrivalDateTime=2021-03-03T21:00
